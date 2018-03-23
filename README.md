@@ -1,1 +1,1 @@
-# Wekinator_Training_Examples
+Repository of training examples for classification with Wekinator
